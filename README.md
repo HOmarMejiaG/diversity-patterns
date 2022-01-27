@@ -1,0 +1,1 @@
+# This files are the supplementary material of the paper titled "Diversity patterns of Mexican land and freshwater snails: a spatiotemporal approach" by Benjamín López, Edna Naranjo-García and Omar Mejia
